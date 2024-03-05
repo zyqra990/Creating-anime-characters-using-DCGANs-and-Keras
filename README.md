@@ -1,4 +1,4 @@
-#  Website with Open Source LLMs
+#  Creating anime characters using DCGANs and Keras
 ### Assigment From IBM Advance AI Infinite Learning
 
 Author : 
